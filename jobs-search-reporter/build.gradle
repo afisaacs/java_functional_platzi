@@ -6,7 +6,7 @@ plugins {
 
 //Paquete de nuestro programa, usado principalmente en librerias.
 group 'com.platzi'
-version '0.0.1'
+version '0.1.0'
 
 //Version de java que es compatible con el codigo
 sourceCompatibility = 1.8
